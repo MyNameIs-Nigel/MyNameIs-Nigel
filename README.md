@@ -1,4 +1,4 @@
-# Hey, I'm Nigel 👋
+# Hey, I'm Nigel 
 
 **DevOps & Cloud Infrastructure Engineer** — I build and automate cloud infrastructure, and I happen to understand security deeply.
 
@@ -17,9 +17,9 @@ Currently pursuing a B.S. in Cybersecurity at BYU-Idaho (July 2027) while workin
 
 ## Recent Work
 
-🏗️ **Roundsphere (DevOps Intern)** — Migrated production apps to IaC with AWS CloudFormation; cut cloud spend by 14% through RDS consolidation
+**Roundsphere (DevOps Intern)** — Migrated production apps to IaC with AWS CloudFormation; cut cloud spend by 14% through RDS consolidation
 
-🔧 **Fybercom (Technical Support)** — Configuring Ubiquiti, Cambium, and Tarana radio/fiber equipment; managing customer networks
+**Fybercom (Technical Support)** — Configuring Ubiquiti, Cambium, and Tarana radio/fiber equipment; managing customer networks
 
 ---
 
@@ -30,6 +30,7 @@ Currently pursuing a B.S. in Cybersecurity at BYU-Idaho (July 2027) while workin
 | ISC² Certified in Cybersecurity (CC) | ✅ Earned |
 | CompTIA Security+ | 🔄 In Progress |
 | AWS Cloud Practitioner | 🔄 In Progress |
+| Cisco Certified Network Associate | 🔄 In Progress |
 
 ---
 
@@ -47,10 +48,10 @@ AI Tooling:  Claude Code · Cursor · n8n · Ollama
 
 ## Currently
 
-- 📍 Idaho Falls, ID → relocating to **Utah (Silicon Slopes)** after graduation
-- 📚 Building toward AWS Solutions Architect + CCNA
-- 🔍 Targeting **DevOps / Platform / SRE roles** at mid-size SaaS companies
+- Idaho Falls, ID → relocating to **Utah (Silicon Slopes)** after graduation
+- Building toward AWS Solutions Architect + CCNA
+- Targeting **DevOps / Platform / SRE roles** at mid-size SaaS companies
 
 ---
 
-📫 [nigel.nds.smith@gmail.com](mailto:nigel.nds.smith@gmail.com) · [LinkedIn](https://linkedin.com/in/nigeld-smith)
+[nigel.nds.smith@gmail.com](mailto:nigel.nds.smith@gmail.com) · [LinkedIn](https://linkedin.com/in/nigeld-smith) · [Portfolio](https://nigel-smith.dev)

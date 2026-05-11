@@ -54,4 +54,6 @@ AI Tooling:  Claude Code · Cursor · n8n · Ollama
 
 ---
 
+Contact Info & More: 
+
 [nigel.nds.smith@gmail.com](mailto:nigel.nds.smith@gmail.com) · [LinkedIn](https://linkedin.com/in/nigeld-smith) · [Portfolio](https://nigel-smith.dev)

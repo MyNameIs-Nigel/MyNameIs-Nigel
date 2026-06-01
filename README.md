@@ -1,25 +1,36 @@
-# Hey, I'm Nigel 
+# Hey, I'm Nigel
 
-**DevOps & Cloud Infrastructure Engineer** — I build and automate cloud infrastructure, and I happen to understand security deeply.
+**DevOps & Cloud Infrastructure Engineer** — I build and automate cloud infrastructure with a deep security background.
 
-Currently pursuing a B.S. in Cybersecurity at BYU-Idaho (July 2027) while working in the field.
+Currently pursuing a B.S. in Cybersecurity at BYU-Idaho (Est. 2027) while working in the field.
 
 ---
 
 ## What I Work On
 
 - **Cloud infrastructure** — AWS (IAM, EC2, RDS, S3, Lambda, VPC, Cognito), GCP, CloudFormation & IaC
-- **Automation** — Python scripts and PowerShell tools that remove manual toil
+- **Automation** — Python scripts and PowerShell tools that eliminate manual toil
 - **Systems & networking** — Linux servers, Windows Server, Proxmox, Cisco, Cloudflare
-- **DevSecOps** — bringing a security lens to infrastructure work, not the other way around
+- **Managed IT** — M365 tenant admin, Exchange triage, endpoint management, on-prem network infrastructure
 
 ---
 
-## Recent Work
+## Experience
 
-**Roundsphere (DevOps Intern)** — Migrated production apps to IaC with AWS CloudFormation; cut cloud spend by 14% through RDS consolidation
+**Fybercom (Technical Support)** — Configuring Ubiquiti, Cambium, and Tarana radio/fiber equipment; managing customer networks via CRM
 
-**Fybercom (Technical Support)** — Configuring Ubiquiti, Cambium, and Tarana radio/fiber equipment; managing customer networks
+**Roundsphere (DevOps Intern)** — Migrated production apps to IaC with AWS CloudFormation; cut cloud spend by 14% through RDS consolidation; oversaw Google Workspace migrations
+
+**Full Coverage Tech (Cloud & IT Consultant)** — Sole technical contact for managed IT client; M365 admin, Exchange triage, endpoint management, and on-prem network deployments
+
+---
+
+## Projects
+
+| Project | Stack |
+|---|---|
+| Full Coverage Technology | Next.js, TypeScript, Vercel |
+| Walton Tax Professionals | Next.js, TypeScript, Vercel |
 
 ---
 
@@ -27,14 +38,14 @@ Currently pursuing a B.S. in Cybersecurity at BYU-Idaho (July 2027) while workin
 
 | Credential | Status |
 |---|---|
-| ISC² Certified in Cybersecurity (CC) | ✅ Earned |
-| CompTIA Security+ | 🔄 In Progress |
-| AWS Cloud Practitioner | 🔄 In Progress |
-| Cisco Certified Network Associate | 🔄 In Progress |
+| ISC² Certified in Cybersecurity (CC) | Earned |
+| CompTIA A+ | Earned |
+| CompTIA Security+ | Anticipated July 2026 |
+| AWS Cloud Practitioner | Anticipated July 2026 |
 
 ---
 
-## Tech I Use
+## Tech Stack
 
 ```
 Cloud:       AWS · GCP · CloudFormation · IaC
@@ -48,12 +59,10 @@ AI Tooling:  Claude Code · Cursor · n8n · Ollama
 
 ## Currently
 
-- Idaho Falls, ID → relocating to **Utah (Silicon Slopes)** after graduation
-- Building toward AWS Solutions Architect + CCNA
+- Based in Idaho Falls, ID — relocating to **Utah (Silicon Slopes)** after graduation
 - Targeting **DevOps / Platform / SRE roles** at mid-size SaaS companies
+- Building toward AWS Solutions Architect
 
 ---
-
-Contact Info & More: 
 
 [nigel.nds.smith@gmail.com](mailto:nigel.nds.smith@gmail.com) · [LinkedIn](https://linkedin.com/in/nigeld-smith) · [Portfolio](https://nigel-smith.dev)

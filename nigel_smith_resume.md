@@ -15,6 +15,12 @@ Relevant coursework: Network Security, Cloud Architecture, Systems Administratio
 
 ## EXPERIENCE
 
+### Technical Support / Customer Support
+**Fybercom** | Idaho Falls, ID | *March 2026 (Present)*
+
+- Gained troubleshooting experience by configuring Ubiquiti, Cambium, and Tarana radios and fiber equipment
+- Managed various customer relationship management (CRM) systems to analyze customer networks to resolve offline customer/slow speeds tickets and calls
+
 ### DevOps Intern
 **Roundsphere** | Remote / Athens, GA | *November 2025 - May 2026*
 
@@ -22,11 +28,11 @@ Relevant coursework: Network Security, Cloud Architecture, Systems Administratio
 - Oversaw small-scale Google Workspace migrations to move from one organization to another
 - Reduced cloud expenditure by 14% by auditing and consolidating AWS RDS infrastructure
 
-### Technical Support / Customer Support
-**Fybercom** | Idaho Falls, ID | *March 2026 (Present)*
+### Cloud & IT Consultant
+**Full Coverage Tech** | Monroe, GA | *May 2023 (Present)*
 
-- Gained troubleshooting experience by configuring Ubiquiti, Cambium, and Tarana radios and fiber equipment
-- Managed various customer relationship management (CRM) systems to analyze customer networks to resolve offline customer/slow speeds tickets and calls
+- Sole technical point of contact for managed IT client; responsible for M365 tenant administration, Exchange triage, and endpoint management
+- Deployed and configured on-premises network infrastructure including access points and remote access solutions
 
 ### Service Desk Associate
 **The Home Depot** | Monroe, GA | *August 2022 - January 2025*
@@ -37,8 +43,8 @@ Relevant coursework: Network Security, Cloud Architecture, Systems Administratio
 
 - ISC² Certified in Cybersecurity (CC)
 - CompTIA A+
-- CompTIA Security+ (Anticipated June 2026)
-- AWS Cloud Practitioner (Anticipated June 2026)
+- CompTIA Security+ (Anticipated July 2026)
+- AWS Cloud Practitioner (Anticipated July 2026)
 
 ## TECHNICAL SKILLS
 

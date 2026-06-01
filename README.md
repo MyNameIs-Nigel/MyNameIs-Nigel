@@ -1,6 +1,6 @@
 # Hey, I'm Nigel
 
-**DevOps & Cloud Infrastructure Engineer** — I build and automate cloud infrastructure with a deep security background.
+**DevOps & Cloud Infrastructure Engineer** — I build and automate just about anything I can get my hands on.
 
 Currently pursuing a B.S. in Cybersecurity at BYU-Idaho (Est. 2027) while working in the field.
 
@@ -22,15 +22,6 @@ Currently pursuing a B.S. in Cybersecurity at BYU-Idaho (Est. 2027) while workin
 **Roundsphere (DevOps Intern)** — Migrated production apps to IaC with AWS CloudFormation; cut cloud spend by 14% through RDS consolidation; oversaw Google Workspace migrations
 
 **Full Coverage Tech (Cloud & IT Consultant)** — Sole technical contact for managed IT client; M365 admin, Exchange triage, endpoint management, and on-prem network deployments
-
----
-
-## Projects
-
-| Project | Stack |
-|---|---|
-| Full Coverage Technology | Next.js, TypeScript, Vercel |
-| Walton Tax Professionals | Next.js, TypeScript, Vercel |
 
 ---
 

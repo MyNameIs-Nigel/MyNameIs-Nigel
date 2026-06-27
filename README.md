@@ -56,3 +56,24 @@ AI Tooling:  Claude Code · Cursor · n8n · Ollama
 ---
 
 [nigel.nds.smith@gmail.com](mailto:nigel.nds.smith@gmail.com) · [LinkedIn](https://linkedin.com/in/nigeld-smith) · [Portfolio](https://nigel-smith.dev)
+
+---
+
+# Projects
+
+An overview of some of my **personal work** that I can share. These are what I am most proud of. 
+
+---
+
+## Highlights
+
+![Screenshot of my TUI game](assets/ssh-idlefarm.png)
+
+> SSH Idlefarmer, an agentic engineered terminal user interface (TUI) that you can SSH into right now! Try `ssh farm.ssharcade.dev` (you need a keypair for it to work)
+
+![My opengraph of my web portfolio](https://nigel-smith.dev/opengraph.png)
+
+> My web portfolio, which will have more information on my projects. Can be reached at https://nigel-smith.dev/ and is deployed as a full-stack web app
+
+ 
+

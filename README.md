@@ -31,8 +31,8 @@ Currently pursuing a B.S. in Cybersecurity at BYU-Idaho (Est. 2027) while workin
 |---|---|
 | ISC² Certified in Cybersecurity (CC) | Earned |
 | CompTIA A+ | Earned |
+| AWS Cloud Practitioner | Earned |
 | CompTIA Security+ | Anticipated July 2026 |
-| AWS Cloud Practitioner | Anticipated July 2026 |
 
 ---
 
@@ -69,7 +69,7 @@ An overview of some of my **personal work** that I can share. These are what I a
 
 ![Screenshot of my TUI game](assets/ssh-idlefarm.png)
 
-> SSH Idlefarmer, an agentic engineered terminal user interface (TUI) that you can SSH into right now! Try `ssh farm.ssharcade.dev` (you need a keypair for it to work)
+> SSH Idlefarmer, an agentic engineered terminal user interface (TUI) that you can SSH into right now! Try `ssh play.ssharcade.dev` (you need a keypair for it to work)
 
 ![My opengraph of my web portfolio](https://nigel-smith.dev/opengraph.png)
 

@@ -44,7 +44,7 @@ Relevant coursework: Network Security, Cloud Architecture, Systems Administratio
 - ISC² Certified in Cybersecurity (CC)
 - CompTIA A+
 - AWS Cloud Practitioner
-- CompTIA Security+ (Anticipated July 2026)
+- CompTIA Security+
 
 ## TECHNICAL SKILLS
 

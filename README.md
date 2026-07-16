@@ -32,7 +32,7 @@ Currently pursuing a B.S. in Cybersecurity at BYU-Idaho (Est. 2027) while workin
 | ISC² Certified in Cybersecurity (CC) | Earned |
 | CompTIA A+ | Earned |
 | AWS Cloud Practitioner | Earned |
-| CompTIA Security+ | Anticipated July 2026 |
+| CompTIA Security+ | Earned |
 
 ---
 

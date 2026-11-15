@@ -1,23 +1,17 @@
 # Nigel Smith
 
-**DevOps & Cloud Infrastructure Engineer** — I build and automate just about anything I can get my hands on.
+**Security & Infrastructure Engineer**
 
 Currently pursuing a B.S. in Cybersecurity at BYU-Idaho (Est. 2027) while working in the field.
 
----
-
-## What I Work On
-
-- **Cloud infrastructure** — AWS (IAM, EC2, RDS, S3, Lambda, VPC, Cognito), GCP, CloudFormation & IaC
-- **Automation** — Python scripts and PowerShell tools
-- **Systems & networking** — Linux servers, Windows Server, Proxmox, Cisco, Cloudflare
-- **Managed IT** — M365 tenant admin, Exchange triage, endpoint management, on-prem network infrastructure
-
----
+> [!TIP]
+> I'm from Monroe, GA; Currently in Rexburg, ID
 
 ## Experience
 
-**Fybercom (Technical Support)** — Configuring Ubiquiti, Cambium, and Tarana radio/fiber equipment; managing customer networks via CRM & troubleshooting through 200+ calls a month
+**Fybercom (Security & Infrastructure Engineer)** — Auditing & security infrastructure, implementing security patches, 
+
+**Fybercom (Technical Support)** — Configured Ubiquiti, Cambium, and Tarana radio/fiber equipment; managed customer networks via CRM & troubleshot through 200+ calls a month
 
 **Roundsphere (DevOps Intern)** — Migrated production apps to IaC with AWS CloudFormation; cut cloud spend by 14% through RDS consolidation; oversaw Google Workspace migrations
 
@@ -33,27 +27,11 @@ Currently pursuing a B.S. in Cybersecurity at BYU-Idaho (Est. 2027) while workin
 | CompTIA A+ | Earned |
 | AWS Cloud Practitioner | Earned |
 | CompTIA Security+ | Earned |
+| TCM PSAA | In-Progress |
+| Cisco CCNA | In-Progress |
+| AWS Solutions Architect | In-Progress |
 
----
-
-## Tech Stack
-
-```
-Cloud:       AWS · GCP · CloudFormation · IaC
-Languages:   Python · PowerShell · Bash
-Infra:       Linux · Windows Server · Proxmox
-Networking:  Cisco · Cloudflare · Wireshark · Nmap
-AI Tooling:  Claude Code · Cursor · n8n · Ollama
-```
-
----
-
-## Currently
-
-- Based in Idaho Falls, ID — opten to relocation after graduation
-- Building toward AWS Solutions Architect
-
----
+## Contact Info
 
 [nigel.nds.smith@gmail.com](mailto:nigel.nds.smith@gmail.com) · [LinkedIn](https://linkedin.com/in/nigeld-smith) · [Portfolio](https://nigel-smith.dev)
 
@@ -63,17 +41,24 @@ AI Tooling:  Claude Code · Cursor · n8n · Ollama
 
 An overview of some of my **personal work** that I can share. These are what I am most proud of. 
 
----
+## SSH-Farm (ssharcade.dev)
 
-## Highlights
+![Screenshot of ssh-farm dev server](assets/ssh-idlefarm.png)
 
-![Screenshot of my TUI game](assets/ssh-idlefarm.png)
+> [!NOTE] 
+> This screenshot may not accurately reflect the current state of the game. This is an active project. 
 
-> SSH Idlefarmer, an agentic engineered terminal user interface (TUI) that you can SSH into right now! Try `ssh ssharcade.dev` (you need a keypair for it to work)
+SSH Idlefarmer, a terminal user interface (TUI) game that you can SSH into right now! Try `ssh ssharcade.dev` (from the menu, hit IDLE FARMER).
 
-![My opengraph of my web portfolio](https://nigel-smith.dev/opengraph.png)
+The arcade runs on a single AWS EC2 t3.micro instance running 4 docker instances for each game. DNS is handled through Cloudflare, the reverse proxy is run on Caddy, each game is written in Go and packed into a Docker image.
 
-> My web portfolio, which will have more information on my projects. Can be reached at https://nigel-smith.dev/ and is deployed as a full-stack web app
+**ssh-farm Release flowchart**
 
- 
+```mermaid
+flowchart TD
+    A[Make a Release] --> B{verify workflow is run}
+    B -->|Failing Job| C[Deploy job never gets run]
+    B -->|Builds Properly| D[Tagged version gets deployed]
+```
 
+> *See more details at [ssh-farm](https://github.com/MyNameIs-Nigel/ssh-farm)*
